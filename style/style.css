@@ -1,0 +1,24 @@
+.fondonav{
+    background-color: rgba(22, 87, 160, 0.869) !important; 
+}
+
+.carousel-foto1{
+    padding: 150px;
+    margin: 15px;
+    width: 800px;
+}
+
+.todascard{
+    background-color:rgba(22, 87, 160, 0.869)   ;
+}
+
+.fotosdefooter{
+  background-color:rgba(22, 87, 160, 0.869) ;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.background{
+    background-color:rgba(22, 87, 160, 0.869) ;
+}
